@@ -1,4 +1,4 @@
-FROM squidfunk/mkdocs-material:6.1.4
+FROM squidfunk/mkdocs-material:7.0.7
 
 RUN \
   apk add --no-cache \
